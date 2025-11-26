@@ -1,5 +1,7 @@
 # Frontier_Index_Salmonella
 Jupyter notebook file for the determination of the Frontier Index from Hi-C contact maps of Salmonella enterica serovar Typhimurium strain SL1344. 
+
+
 Data used:
 EEP: Hi-C of WT S. Typhimurium SL1344 cells growing in LB at 37°C OD=0,1 (EEP condition) 
 HilD: Hi-C of ΔhilD  S. Typhimurium SL1344 cells growing in LB at 37°C OD=2 (ESP condition) 
